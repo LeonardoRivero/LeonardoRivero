@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello friends, I'm Leonardo. I'm an electronic engineering. Through my last two years I got intersted in programming languages and how to use these languages to build Applicationns and Web Pages. I'm currently working on web development with Django Framework(Backend Python),Javascript,Vue.js (Frontend) and Bootstrap as CSS Framework
+Hello friends, I'm Leonardo. I'm an electronic engineering. Through my last three years I got interested in programming languages and how to use these languages to build Applicationns and Web Pages. I'm currently working on web development with Django Framework(Backend Python),Javascript,Vue.js and Reactjs (Frontend) and Bootstrap and MUI as CSS Frameworks
 
 ![web-development-300x251](https://user-images.githubusercontent.com/53909264/138003820-c63f8b22-1384-4032-b109-359874a72685.png)
