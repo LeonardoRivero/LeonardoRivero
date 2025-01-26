@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello friends, I'm Leonardo. I'm an electronic engineering. Through my last three years I got interested in programming languages and how to use these languages to build Applicationns and Web Pages. I am currently starting on my own web project with Django Framework(Backend Python),Vue.js 3 (Frontend Javascript) and Quasar as CSS Frameworks.
+Hello friends, I'm Leonardo. I'm an electronic engineering. Through my last 4 years I got interested in programming languages and how to use these languages to build Applicationns and Web Pages. I am currently starting on my own web project with Django Framework(Backend Python), .NET Core 8 (Backend C#), Vue.js 3 (Frontend Typescript) and Quasar as CSS Frameworks.
 
 Also I'm currently working on C#, ASP.NET languages and Typescript.
 
