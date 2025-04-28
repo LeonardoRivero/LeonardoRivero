@@ -1,22 +1,39 @@
-### Hi there 👋
+### 👋 Hi there, I'm Leonardo!
 
-<!--
-**LeonardoRivero/LeonardoRivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Electronic Engineer** but I'm currently working on **software development**. Over the past 4 years, I’ve transitioned into programming, building applications and websites using modern tools and frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
 
-Hello friends, I'm Leonardo. I'm an electronic engineering. Through my last 4 years I got interested in programming languages and how to use these languages to build Applicationns and Web Pages. I am currently starting on my own web project with Django Framework(Backend Python), .NET Core 8 (Backend C#), Vue.js 3 (Frontend Typescript) and Quasar as CSS Frameworks.
+- **Backend**: Django (Python), ASP.NET Core 8 (C#)
+- **Frontend**: Vue.js 3 with  Quasar Framework and React
+- **Languages**: C#, Python, TypeScript, JavaScript
+- **Databases**: SQL Server, PostgreSQL, SQLite, MongoDB
 
-Also I'm currently working on C#, ASP.NET languages and Typescript.
+---
 
-![web-development-300x251](https://user-images.githubusercontent.com/53909264/138003820-c63f8b22-1384-4032-b109-359874a72685.png)
+### 🚀 Current Projects
+
+I'm currently developing own web application using:
+
+- 🔹 **Django** and **.NET Core 8** for backend services
+- 🔹 **Vue.js 3** + **Quasar** for a responsive and modern UI
+
+---
+
+### 💡 Interests
+
+- Building scalable web applications implementing Clean Archictecture 
+- Backend architecture and API development
+- UI/UX design with component-based frameworks
+- Collaborative open-source development
+- Pattern Designs and SOLID Principles
+
+---
+
+### 📫 How to reach me
+
+- ✉️ Email: lriveroarenas@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/leonardo-rivero-arenas/
+
