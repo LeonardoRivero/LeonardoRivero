@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Leonardo!
 
-I'm an **Electronic Engineer** but I'm currently working on **software development**. Over the past **{{years_programming}} years**, I’ve transitioned into programming, building applications and websites using modern tools and frameworks.
+I'm an **Electronic Engineer** but I'm currently working on **software development**. Over the past **4 years**, I’ve transitioned into programming, building applications and websites using modern tools and frameworks.
 
 ---
 
