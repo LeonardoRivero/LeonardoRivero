@@ -1,6 +1,6 @@
 from datetime import datetime
 
-start_year = 2021
+start_year = 2018
 current_year = datetime.now().year
 years_programming = current_year - start_year
 
